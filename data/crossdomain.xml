@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <cross-domain-policy>
-	<site-control permitted-cross-domain-policies="by-content-type"/>
+	<site-control permitted-cross-domain-policies="all"/>
 	<allow-access-from domain="*rawgithub.com"/>
 	<allow-access-from domain="*.site44.com"/>
 </cross-domain-policy>
